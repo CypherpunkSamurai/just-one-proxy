@@ -23,8 +23,8 @@ print(proxy)
 ```
 
 ## Known Bugs
-- [ ] Proxy Lists with less content sizes throw errors.
-    Currently the range function uses random integers instead of getting the target file size. The patch will be rolled out.
+~- [ ] Proxy Lists with less content sizes throw errors.
+    Currently the range function uses random integers instead of getting the target file size. The patch will be rolled out.~
     
 - [ ] Tell Me?
 
